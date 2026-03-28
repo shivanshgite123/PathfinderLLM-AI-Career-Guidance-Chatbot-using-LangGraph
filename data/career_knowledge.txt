@@ -1,0 +1,203 @@
+==============================================================================
+AI CAREER GUIDANCE KNOWLEDGE BASE  –  Sample Dataset v1.0
+==============================================================================
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 1: DATA SCIENCE & MACHINE LEARNING
+────────────────────────────────────────────────────────────────────────────
+
+DATA SCIENCE OVERVIEW
+Data Science combines programming, statistics, and domain knowledge to extract
+insights from data. It is one of the fastest-growing fields globally with
+consistent high salaries and strong job security.
+
+KEY ROLES IN DATA SCIENCE
+1. Data Analyst       – Cleans and visualises data; entry-level; SQL + Excel + Python
+2. Data Scientist     – Builds predictive models; mid-level; Python + ML + Stats
+3. ML Engineer        – Deploys ML models to production; Python + MLOps + cloud
+4. AI Research Scientist – Advances state-of-the-art AI; PhD preferred; PyTorch/JAX
+5. Business Intelligence Analyst – Dashboards + business insights; Tableau/Power BI
+
+SKILLS ROADMAP FOR DATA SCIENCE
+Foundation (months 1–3):
+  • Python basics: variables, loops, functions, OOP
+  • NumPy, pandas for data manipulation
+  • Matplotlib, Seaborn for visualisation
+  • SQL: SELECT, JOIN, GROUP BY, window functions
+
+Intermediate (months 4–6):
+  • Statistics: distributions, hypothesis testing, regression
+  • scikit-learn: classification, regression, clustering
+  • Feature engineering and model evaluation
+  • Jupyter notebooks, Git version control
+
+Advanced (months 7–12):
+  • Deep learning: TensorFlow or PyTorch
+  • Natural Language Processing (NLP)
+  • Computer Vision basics
+  • MLOps: MLflow, DVC, model deployment with FastAPI/Flask
+
+RECOMMENDED CERTIFICATIONS
+  • Google Professional Data Analytics Certificate (beginner, 6 months)
+  • IBM Data Science Professional Certificate (beginner-intermediate)
+  • AWS Certified Machine Learning – Specialty (advanced)
+  • Databricks Certified Associate Developer for Apache Spark
+
+SALARY EXPECTATIONS (US Market, 2024)
+  Entry-level Data Analyst:  $55,000 – $75,000
+  Data Scientist (3 yrs):    $95,000 – $140,000
+  Senior ML Engineer:        $140,000 – $200,000+
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 2: WEB DEVELOPMENT
+────────────────────────────────────────────────────────────────────────────
+
+WEB DEVELOPMENT OVERVIEW
+Web development powers the internet. It divides into frontend (what users see),
+backend (server logic), and full-stack (both). It is highly accessible,
+freelancing is viable from day one, and portfolios matter more than degrees.
+
+FRONTEND DEVELOPMENT ROADMAP
+  Month 1: HTML5 semantics, CSS3 (Flexbox, Grid, responsive design)
+  Month 2: JavaScript fundamentals (ES6+, DOM manipulation, fetch API)
+  Month 3: React.js (components, hooks, state management)
+  Month 4: TypeScript basics, Next.js (SSR/SSG)
+  Month 5: Testing (Jest, React Testing Library), performance optimisation
+  Month 6: Build 3 portfolio projects and deploy to Vercel/Netlify
+
+BACKEND DEVELOPMENT ROADMAP
+  Month 1: Node.js + Express.js or Python + FastAPI
+  Month 2: Databases – PostgreSQL (SQL) + MongoDB (NoSQL)
+  Month 3: REST API design, authentication (JWT, OAuth2)
+  Month 4: Docker, basic Kubernetes, CI/CD pipelines
+  Month 5: Redis caching, message queues (RabbitMQ/Kafka basics)
+  Month 6: Deploy a full SaaS project on AWS or GCP
+
+TOP COMPANIES HIRING WEB DEVELOPERS
+  FAANG, startups, agencies, freelance platforms (Toptal, Upwork, Contra)
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 3: CLOUD & DEVOPS
+────────────────────────────────────────────────────────────────────────────
+
+CLOUD COMPUTING OVERVIEW
+Cloud computing is the delivery of computing services over the internet.
+AWS holds ~32% market share, Azure ~23%, GCP ~11% (as of 2024).
+Every company is migrating to cloud; demand far exceeds supply.
+
+DEVOPS ENGINEER ROADMAP
+  Phase 1 – OS & Networking (weeks 1–4):
+    Linux command line, bash scripting, TCP/IP, DNS, HTTP/S
+  Phase 2 – Containers (weeks 5–8):
+    Docker (build, run, push images), Docker Compose, container registries
+  Phase 3 – Orchestration (weeks 9–12):
+    Kubernetes (pods, deployments, services, ingress, Helm charts)
+  Phase 4 – IaC & CI/CD (weeks 13–16):
+    Terraform, Ansible, GitHub Actions, Jenkins, ArgoCD
+  Phase 5 – Cloud Platform (weeks 17–20):
+    AWS Core: EC2, S3, RDS, Lambda, VPC, IAM
+  Phase 6 – Monitoring & Security (weeks 21–24):
+    Prometheus, Grafana, ELK stack, AWS CloudWatch, security best practices
+
+CERTIFICATIONS PRIORITY ORDER
+  1. AWS Solutions Architect Associate   (most recognised globally)
+  2. Certified Kubernetes Administrator (CKA)
+  3. HashiCorp Terraform Associate
+  4. AWS DevOps Engineer Professional
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 4: PRODUCT MANAGEMENT
+────────────────────────────────────────────────────────────────────────────
+
+PRODUCT MANAGER ROLE
+PMs define the "what" and "why" of products. They are the bridge between
+engineering, design, business, and customers. No coding is required but
+technical literacy is highly valued. Average US PM salary: $120,000–$180,000.
+
+HOW TO BREAK INTO PM WITHOUT EXPERIENCE
+  1. Transition from within engineering or design (most common path)
+  2. Build a product case study portfolio (analyse 3 real products)
+  3. Contribute to open source as a non-technical contributor
+  4. Get an Associate PM (APM) role at a large company (Google, Microsoft, Meta)
+  5. Complete a Product Management bootcamp (Product School, General Assembly)
+
+ESSENTIAL PM SKILLS
+  Technical: SQL basics, reading code, API fundamentals, A/B testing
+  Analytical: metrics definition, funnel analysis, cohort analysis
+  Communication: PRDs, stakeholder presentations, roadmap prioritisation
+  Design: wireframing in Figma, UX research, usability testing
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 5: JOB SEARCH & CAREER ACCELERATION
+────────────────────────────────────────────────────────────────────────────
+
+THE MODERN JOB SEARCH (2024)
+  • 70% of jobs are filled through networking, not job boards
+  • LinkedIn is the #1 professional networking platform
+  • Technical assessments (coding tests, case studies) are standard
+  • Remote work has opened global job markets
+
+LINKEDIN OPTIMISATION CHECKLIST
+  ✓ Professional headshot (increases profile views by 14x)
+  ✓ Keyword-rich headline (not just job title)
+  ✓ Summary tells your career story in 3 paragraphs
+  ✓ Every role has 3-5 bullet points with quantified results
+  ✓ Skills section has 15+ relevant keywords
+  ✓ Request 3-5 recommendations from colleagues/professors
+  ✓ Post content 2-3x per week about your learning journey
+
+RESUME WRITING BEST PRACTICES
+  • One page for under 5 years experience
+  • Use the STAR method: Situation, Task, Action, Result
+  • Quantify everything: "Improved query performance by 40%" not "improved queries"
+  • Use ATS-friendly formatting: no tables, no images, standard fonts
+  • Customise for each application (add keywords from the job description)
+
+TECHNICAL INTERVIEW PREPARATION
+  Coding interviews:
+    • LeetCode (focus on Easy and Medium problems first)
+    • Topics: arrays, strings, hash maps, trees, graphs, DP basics
+    • Practice 1 problem per day for 60 days
+  System design:
+    • "Designing Data-Intensive Applications" book (Kleppmann)
+    • YouTube: Gaurav Sen, ByteByteGo channels
+  Behavioural:
+    • Prepare 8-10 STAR stories covering leadership, conflict, failure, growth
+    • Research company values and align your stories to them
+
+NEGOTIATION TIPS
+  • Always get the offer in writing before accepting
+  • Negotiate base salary, equity, signing bonus, PTO separately
+  • Never give your current salary; give a target range based on research
+  • Use Levels.fyi and Glassdoor to research compensation
+  • Counter-offering increases compensation 85% of the time
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 6: FREELANCING & ENTREPRENEURSHIP
+────────────────────────────────────────────────────────────────────────────
+
+STARTING AS A FREELANCER
+  Month 1: Choose a niche (web dev, data analysis, ML consulting)
+  Month 2: Create portfolio with 2-3 personal/volunteer projects
+  Month 3: List on Upwork, Fiverr, Toptal, LinkedIn Services
+  Month 4: Pitch 10 potential clients per week via cold email/DM
+  Month 5: Complete first paid projects; collect testimonials
+  Month 6: Raise rates by 20%; begin specialising
+
+FREELANCE PLATFORMS RANKED
+  1. Toptal      – Top 3% of freelancers; high rates ($80–$200/hr)
+  2. Upwork      – Largest platform; competitive; good for building portfolio
+  3. Contra      – Equity-based gigs; startup-focused; no fees
+  4. Fiverr      – Good for productised services; volume-based
+  5. LinkedIn    – Best for direct client acquisition
+
+SaaS STARTUP IDEAS FOR DEVELOPERS
+  • AI writing assistant for a specific niche (legal, medical, marketing)
+  • Automation tools for small businesses
+  • Niche data analytics dashboards
+  • Developer productivity tools
+  • No-code/low-code tools
+
+==============================================================================
+END OF KNOWLEDGE BASE
+==============================================================================

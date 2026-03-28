@@ -1,0 +1,165 @@
+==============================================================================
+EMERGING TECH CAREERS & SOFT SKILLS  –  Knowledge Base v1.0
+==============================================================================
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 1: AI/ML ENGINEERING (2024 Hot Field)
+────────────────────────────────────────────────────────────────────────────
+
+AI ENGINEER VS ML ENGINEER
+AI Engineer: builds applications using pre-trained models (LLMs, APIs)
+ML Engineer: trains and deploys custom models from scratch
+Both roles are in extreme demand; AI Engineer is more accessible.
+
+AI ENGINEER SKILLS (2024)
+  • LLM APIs: OpenAI, Anthropic Claude, Google Gemini
+  • Prompt engineering and prompt optimisation
+  • RAG (Retrieval Augmented Generation) – FAISS, Pinecone, Chroma
+  • LangChain / LlamaIndex for LLM orchestration
+  • Vector databases: Pinecone, Weaviate, Qdrant
+  • Fine-tuning: LoRA, QLoRA on Hugging Face
+  • Deployment: FastAPI, Docker, cloud functions
+
+AI ENGINEER ROADMAP (6 months)
+  Month 1: Python proficiency + OpenAI API basics + prompt engineering
+  Month 2: LangChain fundamentals + RAG pipeline
+  Month 3: Vector databases + embeddings deep dive
+  Month 4: Fine-tuning small models with LoRA
+  Month 5: Build 2 end-to-end AI applications
+  Month 6: Deploy to production + write case studies
+
+SALARY: $130,000 – $250,000 at senior levels (2024, US market)
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 2: CYBERSECURITY
+────────────────────────────────────────────────────────────────────────────
+
+CYBERSECURITY CAREER PATHS
+1. Security Analyst (SOC)  – Monitor and respond to threats
+2. Penetration Tester      – Legally hack systems to find vulnerabilities
+3. Security Engineer       – Build secure systems and infrastructure
+4. Cloud Security Engineer – AWS/GCP/Azure security specialisation
+5. Incident Responder      – Investigate and remediate breaches
+6. Security Architect      – Design enterprise security frameworks
+
+BEGINNER ROADMAP
+  Step 1: CompTIA A+ (hardware/OS fundamentals)
+  Step 2: CompTIA Network+ (networking)
+  Step 3: CompTIA Security+ (first security certification, highly respected)
+  Step 4: TryHackMe or HackTheBox for hands-on practice
+  Step 5: CEH (Certified Ethical Hacker) or eJPT
+  Step 6: OSCP (advanced, for penetration testers)
+  Step 7: CISSP (for senior security leadership roles)
+
+FREE RESOURCES
+  • TryHackMe.com (best hands-on platform for beginners)
+  • Cybrary.it (free courses)
+  • SANS Reading Room (research papers)
+  • Professor Messer (CompTIA exam prep)
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 3: BLOCKCHAIN & WEB3
+────────────────────────────────────────────────────────────────────────────
+
+WEB3 DEVELOPER SKILLS
+  • Solidity (Ethereum smart contracts)
+  • Hardhat / Foundry (development frameworks)
+  • ethers.js / wagmi (frontend Web3 interaction)
+  • IPFS (decentralised storage)
+  • DeFi protocols understanding
+  • OpenZeppelin (secure smart contract libraries)
+
+REALISTIC ASSESSMENT
+  Web3 job market is volatile. Best strategy: be a full-stack developer
+  who can also write Solidity. Pure Web3 roles are fewer and less stable.
+  Good niches: Web3 gaming (stable), DeFi infrastructure, Layer 2 scaling.
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 4: MOBILE DEVELOPMENT
+────────────────────────────────────────────────────────────────────────────
+
+CROSS-PLATFORM (RECOMMENDED FOR BEGINNERS)
+  React Native: JavaScript skills transfer, large ecosystem, Meta-backed
+  Flutter: Dart language, excellent performance, Google-backed
+  
+NATIVE DEVELOPMENT
+  iOS: Swift + SwiftUI (higher App Store earnings, Apple ecosystem)
+  Android: Kotlin + Jetpack Compose (larger global market share)
+
+MOBILE DEVELOPER ROADMAP (React Native)
+  Month 1: JavaScript/TypeScript + React.js fundamentals
+  Month 2: React Native core (navigation, state, native modules)
+  Month 3: Expo framework + publishing to App Store/Play Store
+  Month 4: Backend integration (REST APIs, Firebase, Supabase)
+  Month 5: 2 portfolio apps published to stores
+  Month 6: Job search or freelance clients
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 5: ESSENTIAL SOFT SKILLS FOR TECH CAREERS
+────────────────────────────────────────────────────────────────────────────
+
+COMMUNICATION (Most Underrated Skill)
+  • Writing clearly is a superpower in remote-first companies
+  • Practice: write daily summaries of what you learned
+  • Read "The Elements of Style" (Strunk & White)
+  • Over-communicate in async environments (Slack, email, tickets)
+  • Present your work in team meetings – visibility drives promotions
+
+PROBLEM-SOLVING FRAMEWORK
+  1. Define the problem clearly (rubber duck debugging)
+  2. Break it into smaller sub-problems
+  3. Research existing solutions before building from scratch
+  4. Prototype quickly, then refine
+  5. Document your solution and what you learned
+
+GROWTH MINDSET FOR TECH
+  • Technology changes every 2–3 years; adaptability is a core skill
+  • Dedicate 1 hour/day to learning (before work, early morning works best)
+  • Follow thought leaders on Twitter/X and LinkedIn in your domain
+  • Build in public – share your projects, learnings, and even failures
+  • Embrace code reviews and feedback as learning opportunities
+
+NETWORKING EFFECTIVELY
+  • Quality > quantity: 5 genuine connections > 50 cold LinkedIn adds
+  • Attend local meetups (Meetup.com, Eventbrite) in your tech stack
+  • Contribute to open source to get noticed by maintainers/companies
+  • Write technical blog posts (Hashnode, Dev.to) – great for SEO discovery
+  • Engage genuinely in Discord communities for your tech stack
+
+TIME MANAGEMENT FOR LEARNERS
+  • Use the Pomodoro technique: 25 min focus, 5 min break
+  • Track your learning hours (Toggl, Clockify)
+  • Weekly review: what did you complete? What's blocking you?
+  • Ruthlessly eliminate distractions during learning sessions
+  • Set a 90-day learning sprint with a specific, measurable goal
+
+────────────────────────────────────────────────────────────────────────────
+SECTION 6: CAREER TRANSITION STRATEGIES
+────────────────────────────────────────────────────────────────────────────
+
+FROM NON-TECH TO TECH
+  Best paths for career changers:
+  1. Data Analysis (most accessible; Excel/SQL/Python)
+  2. UX/UI Design (logic + creativity; Figma is free to learn)
+  3. Technical Project Management (leverage existing business experience)
+  4. QA/Testing (underrated entry point; Python for automation testing)
+  5. DevRel (Developer Relations – writing, community, communication skills)
+
+LEVERAGING YOUR EXISTING DOMAIN
+  Finance background → FinTech, quantitative analysis, risk modelling
+  Healthcare background → HealthTech, medical AI, clinical data
+  Education background → EdTech, AI tutoring systems, LMS platforms
+  Legal background → LegalTech, contract AI, compliance automation
+  Marketing background → MarTech, growth engineering, analytics
+
+BUILDING CREDIBILITY WITHOUT EXPERIENCE
+  1. GitHub portfolio (5+ projects with clear READMEs)
+  2. Kaggle competitions (data science credibility)
+  3. Open source contributions (shows collaboration and code quality)
+  4. Technical blog posts (thought leadership, SEO discoverability)
+  5. Hackathon participation (problem-solving under pressure)
+  6. Teaching / mentoring others (solidifies your own knowledge)
+
+==============================================================================
+END OF KNOWLEDGE BASE
+==============================================================================
